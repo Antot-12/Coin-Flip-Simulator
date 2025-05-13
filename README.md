@@ -10,6 +10,15 @@ This is **Coin Flip Simulator**. You can flip a coin and get **heads (✅)** or 
 - **History** — See your past flips with **✅** and **❌**.
 - **Clear History** — Delete the history anytime. 😉
 
+---
+
+## 🔗 Live Demo
+
+👉 **[https://antot-12.github.io/Coin-Flip-Simulator/](https://antot-12.github.io/Coin-Flip-Simulator/)**
+
+---
+
+
 ## Screenshots 📸
 
 Here is how the app looks! 👇
