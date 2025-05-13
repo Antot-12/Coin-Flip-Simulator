@@ -1,0 +1,1 @@
+@tailwind base;@tailwind components;@tailwind utilities;html,body,#root{height:100%;margin:0;padding:0;background-color:#111;color:#fff}@keyframes flip{0%{transform:rotateY(0)}to{transform:rotateY(1080deg)}}
